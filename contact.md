@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Service Engineer Pte. Ltd., Singapore, UEN 202216308D
+Service Engineer OÜ, Estonia
 
 Feel free to contact us during the timings given below.
 For active projects, working time is settled individually according to PO conditions.

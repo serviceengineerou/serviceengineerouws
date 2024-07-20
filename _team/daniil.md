@@ -1,16 +1,16 @@
 ---
-title: "Daniil"
+title: "Daniel"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/daniil.jpeg"
 jobtitle: "Service Projects Manager"
-linkedinurl: "https://www.linkedin.com/in/daniil-vachaev/"
+linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 1
 layout: team
 ---
 
-Service Projects Manager. Graduate Mechanical Engineer and Finance Manager with 15 years of experience in Rotating Equipment Projects.
+Service Projects Manager. Graduate Mechanical Engineer and Finance Manager with 18 years of experience in Rotating Equipment Projects.
 
 Equipment experience:
 - Centrifugal Pumps;
